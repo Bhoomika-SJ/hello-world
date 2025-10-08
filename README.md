@@ -1,2 +1,2 @@
 # hello-world
-Hello worlddd!
+print("hello world")
